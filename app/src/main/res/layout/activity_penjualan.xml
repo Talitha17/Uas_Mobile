@@ -79,18 +79,22 @@
             android:inputType="textPersonName" />
 
         <TextView
-            android:layout_width="@dimen/_100sdp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Jumlah Penjualan"
+            android:text="Jumlah:"
+            android:textSize="17sp"
+            android:textColor="@color/main"
             android:fontFamily="@font/popmed"
-            android:textSize="@dimen/_12sdp" />
+            />
+
         <EditText
-            android:id="@+id/inJumlahJual"
+            android:id="@+id/inJumlahPenjualan"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="@dimen/_12sdp"
-            android:fontFamily="@font/popmed"/>
-
+            android:ems="10"
+            android:fontFamily="@font/popmed"
+            android:inputType="number"
+            android:textSize="17sp" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -100,15 +104,16 @@
             android:fontFamily="@font/popmed"
             />
 
+
         <EditText
             android:id="@+id/inJumlahBrg"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:editable="false"
             android:ems="10"
-            android:textSize="17sp"
             android:fontFamily="@font/popmed"
-            android:inputType="textPersonName" />
+            android:inputType="textPersonName"
+            android:textSize="17sp" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -126,7 +131,6 @@
             android:ems="10"
             android:textSize="17sp"
             android:fontFamily="@font/popmed" />
-
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -145,14 +149,28 @@
             android:textSize="@dimen/_17sdp"
             android:fontFamily="@font/popmed" />
 
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:background="@color/transparent"
+            android:editable="false"
+            android:fontFamily="@font/popmed"
+            android:textSize="17sp" />
+
         <TextView
             android:id="@+id/tv_total2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="total"
+            android:visibility="gone"
             android:ems="10"
             android:textColor="@color/main"
             android:textSize="@dimen/_17sdp"
             android:fontFamily="@font/popmed" />
+
+
+
 
     </LinearLayout>
 
@@ -163,8 +181,8 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
         android:layout_marginLeft="@dimen/_16sdp"
-        android:layout_marginRight="@dimen/_16sdp"
-        android:layout_marginBottom="@dimen/_30sdp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="69dp"
         android:onClick="simpandata"
         android:text="Simpan"
 
