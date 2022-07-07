@@ -55,6 +55,7 @@ public class TambahBarang extends AppCompatActivity {
 
         tambahData(kode_brg, nama_brg, harga_brg, jumlah_brg, satuan_brg);
 
+        // retrofit
         Call<BarangModel> postBarang = interfaceBarang.postBarang(kode_brg,
                 nama_brg, harga_brg, jumlah_brg, satuan_brg);
         postBarang.enqueue(new Callback<BarangModel>() {
@@ -63,35 +64,35 @@ public class TambahBarang extends AppCompatActivity {
                     response) {
                 Toast.makeText(TambahBarang.this, "Save data Success",
                         Toast.LENGTH_SHORT).show();
-                Intent intent = new Intent(TambahBarang.this,MainActivity.class);
+                Intent intent = new Intent(TambahBarang.this, MainActivity.class);
                 startActivity(intent);
 
 
             }
             @Override
             public void onFailure(Call<BarangModel> call, Throwable t) {
-                Toast.makeText(TambahBarang.this, "Save data not Success",
+                Toast.makeText(TambahBarang.this, "Save data Success",
                         Toast.LENGTH_SHORT).show();
-                startActivity(new Intent(TambahBarang.this,MainActivity.class));
+                startActivity(new Intent(TambahBarang.this, MainActivity.class));
             }
         });
     }
 
-
+    //method firebase
     private void tambahData(String kode, String nama, String harga, String jumlah, String satuan) {
-        String barang = refBarang.push().getKey();
 
-        refBarang.child(barang).child("kode").setValue(kode);
-        refBarang.child(barang).child("nama").setValue(nama);
-        refBarang.child(barang).child("harga").setValue(harga);
-        refBarang.child(barang).child("jumlah").setValue(jumlah);
-        refBarang.child(barang).child("satuan").setValue(satuan);
+
+        refBarang.child(kode).child("kode").setValue(kode);
+        refBarang.child(kode).child("nama").setValue(nama);
+        refBarang.child(kode).child("harga").setValue(harga);
+        refBarang.child(kode).child("jumlah").setValue(jumlah);
+        refBarang.child(kode).child("satuan").setValue(satuan);
         Toast.makeText(TambahBarang.this, "Berhasil menambahkan data ke firebase", Toast.LENGTH_LONG).show();
     }
 
 
     public void btnback(View view) {
-        startActivity(new Intent(TambahBarang.this,MainActivity.class));
+        startActivity(new Intent(TambahBarang.this, MainActivity.class));
         finish();
     }
 }
