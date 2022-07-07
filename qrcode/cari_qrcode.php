@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "qrcode";
+$dbname = "mobile";
 $usere = "root";
 $pswd = "";
 //$conn=mysqli_connect($host,$usere,$pswd,$dbname);
