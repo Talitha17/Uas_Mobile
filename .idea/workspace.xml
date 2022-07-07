@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87e0fc9b-e981-448a-bb53-1d4fcc1dfa21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/checklist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/content1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/content2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/delivery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/gmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/teamwork.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/telephone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/tombol_tambah.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/trade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/drawable-v24/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/checklist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/content1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/content2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/delivery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/gmail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/teamwork.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/telephone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/tombol_tambah.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/trade.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/user.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/androidTest/java/com/example/scanqrcode/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/androidTest/java/com/example/uas_02852/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/AboutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/Adapter/AdapterTransaksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/Adapter/AdapterTransaksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/Adapter/BarangAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/Adapter/BarangAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/DashboardActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/DashboardActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/MediaBarcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/MediaBarcode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/Model/BarangModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/Model/BarangModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/Model/TransaksiModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/Model/TransaksiModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/PenjualanActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/PenjualanActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/ScanQrCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/ScanQrCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/TambahBarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/TambahBarang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/TransaksiActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/TransaksiActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/Utill/DataApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/Utill/DataApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/Utill/InterfaceBarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/Utill/InterfaceBarang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/Utill/InterfaceTransaksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/Utill/InterfaceTransaksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/scanqrcode/Utill/ServerAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/java/com/example/uas_02852/Utill/ServerAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_penjualan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_penjualan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_tambah_barang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_tambah_barang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_transaksi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/activity_transaksi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/list_data_barang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/list_data_barang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/list_data_barang_transaksi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/layout/list_data_barang_transaksi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/app/src/test/java/com/example/scanqrcode/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/app/src/test/java/com/example/uas_02852/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/cari_qrcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/cari_qrcode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/getdata.php" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/getdata.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/koneksi.php" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/koneksi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/qrcode-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/qrcode-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/qrcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/qrcode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UAS_02852/qrcode/tampil_qrcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/UAS_02852/qrcode/tampil_qrcode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/scanqrcode/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/uas_02852/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/AboutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/Adapter/AdapterTransaksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/Adapter/AdapterTransaksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/Adapter/BarangAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/Adapter/BarangAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/DashboardActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/DashboardActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/MediaBarcode.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/MediaBarcode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/Model/BarangModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/Model/BarangModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/Model/TransaksiModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/Model/TransaksiModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/PenjualanActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/PenjualanActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/ScanQrCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/ScanQrCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/TambahBarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/TambahBarang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/TransaksiActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/TransaksiActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/Utill/DataApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/Utill/DataApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/Utill/InterfaceBarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/Utill/InterfaceBarang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/Utill/InterfaceTransaksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/Utill/InterfaceTransaksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/scanqrcode/Utill/ServerAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/uas_02852/Utill/ServerAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_dashboard.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_dashboard.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_penjualan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_penjualan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_tambah_barang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tambah_barang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_transaksi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_transaksi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_data_barang.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_data_barang.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_data_barang_transaksi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_data_barang_transaksi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/scanqrcode/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/uas_02852/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/cari_qrcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/cari_qrcode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/getdata.php" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/getdata.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/koneksi.php" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/koneksi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/qrcode-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/qrcode-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/qrcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/qrcode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrcode/tampil_qrcode.php" beforeDir="false" afterPath="$PROJECT_DIR$/qrcode/tampil_qrcode.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\USER\.android\avd\6.7_Horizontal_Fold-in_API_30.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2BYOuO8pb8PrudcdAklsOr33Kb9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Scan_QR_Code.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e0fc9b-e981-448a-bb53-1d4fcc1dfa21" name="Changes" comment="" />
+      <created>1657079776084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657079776084</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
