@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.scanqrcode">
+    package="com.example.uas_02852">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.VIBRATE" />
@@ -8,23 +8,26 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_icon"
+        android:icon="@drawable/avatar"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/ic_icon"
+        android:roundIcon="@drawable/avatar"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ScanQRCode"
+        android:theme="@style/Theme.MaterialComponents.Light.NoActionBar"
         android:usesCleartextTraffic="true">
         <activity
-            android:name=".PenjualanActivity"
+            android:name="com.example.uas_02852.PenjualanActivity"
             android:exported="false" />
         <activity
-            android:name=".TransaksiActivity"
+            android:name="com.example.uas_02852.TransaksiActivity"
             android:exported="false" />
         <activity
-            android:name=".AboutActivity"
+            android:name="com.example.uas_02852.AboutActivity"
             android:exported="false" />
         <activity
-            android:name=".DashboardActivity"
+            android:name="com.example.uas_02852.DashboardActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".SplashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,16 +36,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".TambahBarang"
+            android:name="com.example.uas_02852.TambahBarang"
             android:exported="false" />
         <activity
-            android:name=".MediaBarcode"
+            android:name="com.example.uas_02852.MediaBarcode"
             android:exported="false" />
         <activity
-            android:name=".ScanQrCode"
+            android:name="com.example.uas_02852.ScanQrCode"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.uas_02852.MainActivity"
             android:exported="true" />
     </application>
 

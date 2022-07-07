@@ -7,72 +7,70 @@
     android:layout_height="match_parent"
     tools:context=".TransaksiActivity">
 
-    <xyz.sahildave.arclayout.ArcLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:arc_cropCurve="cropConvex"
-        app:arc_height="48dp"
-        app:arc_position="bottom">
-
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="@dimen/_150sdp"
-            android:background="@color/main"
-            />
-
-        <!-- YOUR CONTENT -->
-
-    </xyz.sahildave.arclayout.ArcLayout>
-
 
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical">
 
+        <com.todkars.shimmer.ShimmerRecyclerView
+            android:id="@+id/rcylrBarang2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="@dimen/_16sdp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
 
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginLeft="@dimen/_16sdp"
-                android:layout_marginTop="@dimen/_16sdp"
-                android:layout_marginRight="@dimen/_16sdp"
-                android:fontFamily="@font/popsem"
-                android:text="Scan qrcode atau klik untuk melakukan transaksi"
-                android:textColor="@color/white"
-                android:textSize="@dimen/_13sdp"
-
-                />
-
-
-            <com.todkars.shimmer.ShimmerRecyclerView
-                android:id="@+id/rcylrBarang2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:padding="@dimen/_16sdp"
-                app:cardBackgroundColor="@android:color/transparent"
-                android:orientation="vertical"
-                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
-
-
-        </androidx.appcompat.widget.LinearLayoutCompat>
+    </androidx.appcompat.widget.LinearLayoutCompat>
 
 
 
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/btn_scanner"
-        android:layout_width="wrap_content"
-        android:layout_height="@dimen/_40sdp"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginRight="@dimen/_16sdp"
-        app:backgroundTint="@color/main"
-        app:iconTint="@android:color/white"
-        android:layout_marginBottom="@dimen/_16sdp"
-        android:src="@drawable/ic_baseline_camera_alt_24" />
+<!--    <com.google.android.material.button.MaterialButton-->
+<!--        android:id="@+id/btn_scanner"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="@dimen/_40sdp"-->
+<!--        android:layout_alignParentRight="true"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_marginLeft="@dimen/_16sdp"-->
+<!--        android:layout_marginRight="@dimen/_16sdp"-->
+<!--        app:backgroundTint="@color/main"-->
+<!--        android:text="Scan now"-->
+<!--        app:cornerRadius="@dimen/_10sdp"-->
+<!--        app:iconTint="@android:color/white"-->
+<!--        android:layout_marginBottom="@dimen/_16sdp"-->
+<!--        android:src="@drawable/ic_baseline_camera_alt_24" />-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true">
 
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_add"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_16sdp"
+            android:layout_marginRight="@dimen/_16sdp"
+            android:layout_marginBottom="@dimen/_16sdp"
+            android:text="Scann Sekarang"
+            android:backgroundTint="@color/button"
+            app:cornerRadius="@dimen/_16sdp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_back"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_16sdp"
+            android:layout_marginRight="@dimen/_16sdp"
+            android:layout_marginBottom="@dimen/_16sdp"
+            android:text="Kembali"
+            android:backgroundTint="@color/button"
+            app:cornerRadius="@dimen/_16sdp" />
+
+    </LinearLayout>
 
 </RelativeLayout>
 

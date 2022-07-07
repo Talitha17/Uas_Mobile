@@ -6,30 +6,14 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    android:background="@color/main"
     tools:context=".MainActivity">
 
 
-    <TextView
-        android:id="@+id/tv_daftar"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="@dimen/_16sdp"
-        android:layout_marginTop="@dimen/_16sdp"
-        android:layout_marginRight="@dimen/_16sdp"
-        android:fontFamily="@font/popsem"
-        android:text="Daftar Barang"
-        android:textColor="@color/white"
-        android:textSize="@dimen/_13sdp"
-
-        />
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_below="@+id/tv_daftar"
-        android:layout_marginTop="@dimen/_10sdp"
-        android:background="@drawable/container2">
+        android:layout_marginTop="@dimen/_10sdp">
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/rcylrBarang"
@@ -39,25 +23,28 @@
             android:padding="@dimen/_16sdp" />
     </RelativeLayout>
 
-
-    <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
-        android:id="@+id/tambah_barang"
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_insert"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentRight="true"
+        android:text="Tambah"
+        android:backgroundTint="@color/button"
         android:layout_alignParentBottom="true"
-        android:layout_marginRight="@dimen/_5sdp"
-        android:layout_marginBottom="@dimen/_30sdp"
-        android:onClick="scanner"
-        android:text="Tambah Barang"
-        android:textColor="@android:color/white"
-        android:textSize="12sp"
-        app:backgroundTint="@color/main"
-        app:icon="@drawable/ic_add"
-        app:iconTint="@android:color/white" />
+        android:layout_marginLeft="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_16sdp"
+        />
 
-
-
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/btn_insert"
+        android:text="Kembali"
+        android:backgroundTint="@color/button"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_16sdp"
+        />
 
 
 

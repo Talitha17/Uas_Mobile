@@ -1,9 +1,174 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".PenjualanActivity">
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="@dimen/_16sdp"
+        >
+
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/inId"
+            android:visibility="gone"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kode Barang:"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            />
+        <EditText
+            android:id="@+id/inKdBrg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:editable="false"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama Barang:"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            />
+
+        <EditText
+            android:id="@+id/inNmBrg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:editable="false"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Satuan:"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            />
+
+        <EditText
+            android:id="@+id/inSatuanBrg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:ems="10"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="wrap_content"
+            android:text="Jumlah Penjualan"
+            android:fontFamily="@font/popmed"
+            android:textSize="@dimen/_12sdp" />
+        <EditText
+            android:id="@+id/inJumlahJual"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_12sdp"
+            android:fontFamily="@font/popmed"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Stok:"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            />
+
+        <EditText
+            android:id="@+id/inJumlahBrg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:ems="10"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Harga:"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            />
+
+        <EditText
+            android:id="@+id/inHrgBrg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:ems="10"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total:"
+            android:textSize="17sp"
+            android:fontFamily="@font/popmed"
+            />
+
+        <TextView
+            android:id="@+id/tv_total"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="total"
+            android:ems="10"
+            android:textColor="@color/main"
+            android:textSize="@dimen/_17sdp"
+            android:fontFamily="@font/popmed" />
+
+        <TextView
+            android:id="@+id/tv_total2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:textColor="@color/main"
+            android:textSize="@dimen/_17sdp"
+            android:fontFamily="@font/popmed" />
+
+    </LinearLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/_16sdp"
+        android:layout_marginRight="@dimen/_16sdp"
+        android:layout_marginBottom="@dimen/_30sdp"
+        android:onClick="simpandata"
+        android:text="Simpan"
+
+        />
+
+
+</RelativeLayout>
