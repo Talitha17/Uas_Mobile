@@ -149,14 +149,6 @@
             android:textSize="@dimen/_17sdp"
             android:fontFamily="@font/popmed" />
 
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:background="@color/transparent"
-            android:editable="false"
-            android:fontFamily="@font/popmed"
-            android:textSize="17sp" />
 
         <TextView
             android:id="@+id/tv_total2"
